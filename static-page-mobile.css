@@ -1,0 +1,13 @@
+.post{padding:32px 100px 0 100px;margin-top:48px;margin-bottom:48px;border-top:5px solid}
+.post-heading{text-align:center}
+.img12{float:none;margin-right:33px;padding-left:535px;padding-right:0}
+div.text13{float:left;padding-left:33px;margin-top:0}
+@media only screen and (max-width:768px){
+.post-heading{padding-top:30px;border-top:5px solid}}
+@media only screen and (max-width:768px){
+.post{padding:0;margin-top:30px;margin-bottom:48px;border-top:0}
+.img12{float:none;margin-right:unset;padding-left:0;padding-right:0}
+#ContactForm1_contact-form-name,#ContactForm1_contact-form-email{width:300px}
+#ContactForm1_contact-form-email-message{width:320px}
+#ContactForm1_contact-form-submit{float:none}
+div.text13{float:none;padding-left:0;margin-top:0;text-align:center;padding-bottom:30px}}
